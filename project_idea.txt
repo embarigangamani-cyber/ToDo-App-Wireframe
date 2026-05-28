@@ -1,0 +1,12 @@
+# Project Idea
+
+App Name: To-Do Task Manager
+
+Purpose:
+This app helps users manage daily tasks and reminders easily.
+
+Target Users:
+
+* Students
+* Employees
+* Busy professionals

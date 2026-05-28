@@ -1,0 +1,22 @@
+# User Research
+
+## Problem
+
+People often forget daily tasks, assignments, and important reminders.
+
+## User Needs
+
+* Easy task creation
+* Reminder system
+* Simple interface
+* Quick access to tasks
+
+## Target Users
+
+* Students
+* Office employees
+* Busy professionals
+
+## Goal
+
+To help users organize and manage daily activities efficiently.

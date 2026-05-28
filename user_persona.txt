@@ -1,0 +1,24 @@
+# User Persona
+
+Name: Rahul Sharma
+
+Age: 21
+
+Occupation: College Student
+
+Goals:
+
+* Manage daily study tasks
+* Remember assignment deadlines
+* Improve time management
+
+Problems:
+
+* Forgets important tasks
+* Gets confused with busy schedules
+
+Needs:
+
+* Simple task management app
+* Easy reminders
+* Quick task access

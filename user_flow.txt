@@ -1,0 +1,9 @@
+Open App
+   ↓
+Login
+   ↓
+Home Screen
+   ↓
+Add Task
+   ↓
+Save Task
